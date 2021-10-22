@@ -1,4 +1,4 @@
 # ModdedPixelcord
-Just download "Pixelcord.theme.css"
-This is Pixelcord but its moddded (black hole theme, some colors changed and more!)
-i got allowed by creator of pixelcord to post it on git
+⚠!! WARNINIG !!⚠ If using better discord go to realases and download "Pixelcord-theme.css" If using powercord do the same but download "Pixelcord-for-powercord.
+This is mixed themes but in one theme (and plugins doe)
+Used themes - Discolored, BadgesEverywhere (white edition), Black hole (more will be in patch2/patch3 etc.)
