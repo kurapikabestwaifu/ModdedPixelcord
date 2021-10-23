@@ -2,7 +2,7 @@
  * @name Pixelcord
  * @author ! anime kid#0838
  * @version 3.4.1 (modded)
- * @description Material Design Theme with numerous enhancements for Discord
+ * @description The new era of betterdiscord/powercord themes...
  * @source https://github.com/hyblocker/pixelcord
  * @updateUrl https://raw.githubusercontent.com/hyblocker/pixelcord/main/Pixelcord.theme.css
  * @modding animecoder2115
@@ -25,26 +25,27 @@
 /* Functions | Channel Icons - Make channels change icon based on what they're called! (eg #github would have a github icon instead of #) */
  @import url(https://hyblocker.github.io/pixelcord/modules/functions/channel_icons.css); 
 /* Functions | Context Menu Icons - Adds icons to right click menus */
- @import url(https://hyblocker.github.io/pixelcord/modules/functions/context_icons.css); 
+ @import url(https://hyblocker.github.io/pixelcord/modules/functions/context_icons.css);
 /*
 */
 /*
-NOTE: You can use other themes but it must be just a background not the entire discord is themed/modded
 */
 /*
     EXTERNAL MODULES
 */
 /* Add-Ons | Discolored - Colorize Discord's boring SVGs! */
-@import url(https://nyri4.github.io/Discolored/main.css);
+ @import url(https://nyri4.github.io/Discolored/main.css);
 /* Add-Ons | BadgesEverywhere - Colored Badges */
  @import url(https://mr-miner1.github.io/Better-Badges/src/badges.css); 
 /* Add-Ons | BadgesEverywhere - White Badges */
-/* @import url(https://mr-miner1.github.io/Better-Badges/src/whitebadges.css); */
+ @import url(https://mr-miner1.github.io/Better-Badges/src/whitebadges.css);
 /* Add-Ons | Black hole theme - Black hole */
  @import url(https://monstrousdev.github.io/themes/black-hole/style.css);
+/* Addo-Ons | EmojiReplace - Replaces emoji's with eg. Facebook, Apple, Samsung */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 /*
     DO NOT REMOVE
-*/
+    */
 @import url(https://hyblocker.github.io/pixelcord/dist.css);
 /*
     VARIABLES
