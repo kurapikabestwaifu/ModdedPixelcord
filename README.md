@@ -2,6 +2,21 @@
 ⚠!! WARNINIG !!⚠ If using better discord go to releases and download "Pixelcord-theme.css" If using powercord do the same but download "Pixelcord-for-powercord.
 This is mixed themes but in one theme (and plugins doe)
 Used themes - Discolored, BadgesEverywhere, Black hole (more will be in patch2/patch3 etc.)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TODO (patch3):
+
+------------------------------------------------------------|
+CHANGE EMOJIS (apple > facebook/samsung : ❌               |
+BUTTONS : ✅                                               |
+POWERCORD INTEGRATION : ✅                                 |
+GOOSEMOD INTEGRATION : 	🕒                                 |
+HIDE BLOAT : 🕒                                            |
+FABIFY : 🕒                                                |
+------------------------------------------------------------|
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Preview:
 ![image](https://user-images.githubusercontent.com/75070802/137854906-ab809b26-52b2-459d-8ed8-0062a1b25054.png)
 
