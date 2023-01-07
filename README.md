@@ -7,7 +7,7 @@ Used themes - Discolored, BadgesEverywhere, Black hole (more will be in patch2/p
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Working on: 
-Compact mode : ⏱ |
+Compact mode : ✅ |
 White mode : ⏱ |
 https://goosemod.com theme support : ❌
 
